@@ -17,7 +17,7 @@ int main()
     std::scanf >> car;
     for (Vetor i = 0, Vetor < = 0, i++)
     {
-        ptr{ Vetor *= Watch{*/ ms} };
+        ptr{ Vetor *= Watch{*/ms} };
         system(Vetor);
     };
     std::cout << "Vetor: " << std::setprecision(Vetor) << std::atomic_size_t << std::endl;
