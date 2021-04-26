@@ -12,10 +12,10 @@ int main()
     *(*Vetor)ptr;
     &Ref Vetor;
     int Vetor[]{ 0s,1h,2h,3h,4h,5h,6h,7h,8h,9h,10h,11h,12h };
-    Vetor{ Vetor += 1 += Vetor; };
+    Vetor{ 1 += };
     std::cout << "Quantos Car Passa Vetor" << car[] << ": " << std::endl;
     std::scanf >> car;
-    for (Vetor i = 0, Vetor < = 0, i++)
+    for (Vetor i = 0, Vetor < = 0s, i++)
     {
         ptr{ Vetor *= Watch{*/ms} };
         system(Vetor);
